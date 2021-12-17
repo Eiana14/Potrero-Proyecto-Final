@@ -1,0 +1,38 @@
+.container-fluid{
+    background-color: #FFFBFC;
+}
+
+#logo{
+    background-color: #696C4A;
+    text-align: center;
+}
+
+.border-radius{
+    border-radius: 60%;
+}
+
+#header{
+    background-color:#696C4A;
+
+}
+
+.rounded{
+    margin: 20px;
+    justify-content: space-evenly;
+}
+
+.col-3{
+    border-style: ridge;
+    border-color: #BCA3AC;
+    margin: 40px;
+}
+
+#carouselExampleFade{
+    background-color: rgba(105, 108, 74, 0.7);
+    border-radius: 15px;
+
+     }
+
+#footer{
+    background-color: rgba(105, 108, 74, 1);
+}
